@@ -1,0 +1,29 @@
+.post {
+    padding: 20px;
+    margin: 20px;
+    width: 600px;
+    height: fit-content;
+    border: 1px solid rgba(0, 0, 0, 0.24);
+    text-align: left;
+    border-radius: 5px;
+}
+h5, p, h1 {
+    margin: 3px 0px;
+}
+.post:hover {
+    background-color: rgba(206, 204, 203, 0.301);
+}
+button {
+    width: 100px;
+    height: 30px;
+    color: white;
+    background-color: rgba(14, 98, 255, 0.534);
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+button:active {
+    background-color: rgb(14, 98, 255);
+}
+
+

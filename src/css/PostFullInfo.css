@@ -1,0 +1,17 @@
+.full-info {
+    width: 100%;
+    text-align: left;
+    padding: 20px;
+}
+
+h2, p, h1 {
+    margin: 2px;
+}
+h2 {
+    position: relative;
+}
+#back-btn {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
